@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: ayer
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -107,7 +107,4 @@ deploy:
 #  repo: git@github.com:LVM-23/myBlog.git
   branch: gh-pages
 # Hexo-generator-search
-search:
-  path: search.xml
-  field: post
-  format: html
+
