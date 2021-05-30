@@ -4,12 +4,12 @@
 
 # Site
 title: LVM_23
-subtitle: ''
-description: ''
-keywords:
+subtitle: 'lihaoquan的小屋子'
+description: '不想浑浑噩噩，背后没靠背'
+keywords: '生活，思考，代码，博客'
 author: haoquan
-language: en
-timezone: ''
+language: zh-Hans
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
