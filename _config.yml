@@ -107,4 +107,12 @@ deploy:
 #  repo: git@github.com:LVM-23/myBlog.git
   branch: gh-pages
 # Hexo-generator-search
-
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
