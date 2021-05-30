@@ -4,7 +4,7 @@ menu:
   归档: /archives
   分类: /categories
   标签: /tags
-  旅行: /tags/旅行/
+#  旅行: /tags/旅行/
 #  摄影: http://shenyu-vip.lofter.com
   友链: /friends
   关于我: /2019/about
@@ -108,7 +108,7 @@ canvas_bg: 0
 
 # 自定义鼠标样式，直接替换/images/mouse.cur文件
 mouse:
-  enable: false
+  enable: true
   path: /myBlog/images/mouse.cur
 
 # 鼠标点击效果：0-关闭，1-爱心，2-爆炸烟花，3-粒子烟花
@@ -164,7 +164,7 @@ mermaid:
   theme: forest
 
 # 网站成立年份(默认为 2019，若填入年份小于当前年份，则显示为 2018-2019 类似的格式)
-since: 2015
+since: 2021
 
 # 是否显示页脚信息(建议保留)
 pageFooter: true
