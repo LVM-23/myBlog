@@ -110,7 +110,7 @@ canvas_bg: 0
 
 # 自定义鼠标样式，直接替换/images/mouse.cur文件
 mouse:
-  enable: true
+  enable: false
 #  path: /myBlog/images/mouse.cur
   path: /images/mouse.cur
 
